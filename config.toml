@@ -1,0 +1,13 @@
+baseURL = 'https://www.openmultiplechoice.de'
+languageCode = 'de'
+title = 'OpenMultipleChoice'
+
+theme = "about-blank"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+  author = "The OpenMultipleChoice project"
+  disableMenu = true
+  showTagPills = false

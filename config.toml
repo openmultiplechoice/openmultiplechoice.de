@@ -1,4 +1,4 @@
-baseURL = 'https://www.openmultiplechoice.de'
+baseURL = 'https://openmultiplechoice.github.io/openmultiplechoice.de/'
 languageCode = 'de'
 title = 'OpenMultipleChoice'
 

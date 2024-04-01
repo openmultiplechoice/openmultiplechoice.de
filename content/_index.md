@@ -151,6 +151,7 @@ kontaktiert uns gerne und wir suchen eine Lösung.
     <div class="col-md-4">
         <p>Social</p>
         <ul class="list-unstyled">
+            <li><a href="https://bsky.app/profile/openmultiplechoice.bsky.social">Bluesky</a></li>
             <li><a href="https://discord.gg/NdvVNBN5Dh">Discord</a></li>
             <li><a href="https://github.com/openmultiplechoice/openmultiplechoice">GitHub</a></li>
         </ul>

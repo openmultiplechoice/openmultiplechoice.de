@@ -56,7 +56,7 @@ Wir denken über ein Managed Hosting Angebot nach, bei Interesse freuen wir uns
             <div class="card-body">
                 <h5 class="card-title">Support</h5>
                 <p class="card-text">
-Privater E-Mail Support ist nach Anfrage auf Spendenbasis möglich.
+Community Support findet ihr auf <a href="https://github.com/openmultiplechoice/openmultiplechoice/discussions/categories/q-a">GitHub Discussions</a> (Englisch).
                 </p>
             </div>
         </div>

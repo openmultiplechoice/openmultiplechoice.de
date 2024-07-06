@@ -105,7 +105,7 @@ Code</a>) ist als Open Source Software für jede und jeden frei nutzbar
         <p>
 OpenMultipleChoice befindet sich aktuell in aktiver Entwicklung und ist als
 <i>early access</i> Version installierbar. Ein erster alpha Release ist
-für Q2 2024 geplant.
+für Juli 2024 geplant.
         </p>
     </div>
 </div>

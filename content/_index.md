@@ -85,8 +85,8 @@ Code</a>) ist als Open Source Software für jede und jeden frei nutzbar
         <p>Spenden unterstützen uns bei der Weiterentwicklung und halten das Projekt am Leben.</p>
         <p>Möglichkeiten zur Spende sind:</p>
         <ul>
+            <li><a href="https://ko-fi.com/openmultiplechoice">ko-fi.com/openmultiplechoice</a> (u.a. PayPal)</li>
             <li>Überweisung (auf Anfrage)</li>
-            <li><a href="https://ko-fi.com/openmultiplechoice">ko-fi.com/openmultiplechoice</a></li>
         </ul>
     </div>
 </div>

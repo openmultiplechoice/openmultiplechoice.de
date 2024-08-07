@@ -6,7 +6,7 @@ layout: "indexpage"
 
 <img src="omc-white-bg.png" class="rounded mx-auto d-block" width=50 alt="OMC logo">
 
-<p class="text-center text-muted">early access <span class="badge text-dark" style="background-color: #fff3cd !important;">alpha</span></p>
+<p class="text-center text-muted"><span class="badge text-dark" style="background-color: #fff3cd !important;">alpha</span></p>
 
 **OpenMultipleChoice** ist eine Open Source Webanwendung zum Lernen von Multiple
 Choice Fragen (MCQ) und Lernkarten.
@@ -104,8 +104,7 @@ Code</a>) ist als Open Source Software für jede und jeden frei nutzbar
     <div class="col-md-8">
         <p>
 OpenMultipleChoice befindet sich aktuell in aktiver Entwicklung und ist als
-<i>early access</i> Version installierbar. Ein erster alpha Release ist
-für Juli 2024 geplant.
+<i>alpha</i> Version installier- und nutzbar.
         </p>
     </div>
 </div>
@@ -118,8 +117,7 @@ für Juli 2024 geplant.
         <p>
 OpenMultipleChoice kann als Open Source Software kostenlos installiert und genutzt werden
 (unter den Bedingungen der <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">AGPL v3</a>).
-Die Entwicklung des Projekts wird hauptsächlich über Spenden finanziert, siehe
-oben.
+Die Entwicklung des Projekts wird hauptsächlich über Spenden finanziert.
         </p>
     </div>
 </div>

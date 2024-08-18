@@ -104,7 +104,7 @@ Code</a>) ist als Open Source Software für jede und jeden frei nutzbar
     <div class="col-md-8">
         <p>
 OpenMultipleChoice befindet sich aktuell in aktiver Entwicklung und ist als
-<i>alpha</i> Version installier- und nutzbar.
+<i>alpha</i> Version installier- und nutzbar!
         </p>
     </div>
 </div>
@@ -117,7 +117,7 @@ OpenMultipleChoice befindet sich aktuell in aktiver Entwicklung und ist als
         <p>
 OpenMultipleChoice kann als Open Source Software kostenlos installiert und genutzt werden
 (unter den Bedingungen der <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">AGPL v3</a>).
-Die Entwicklung des Projekts wird hauptsächlich über Spenden finanziert.
+Die Entwicklung des Projekts wird über Spenden finanziert.
         </p>
     </div>
 </div>

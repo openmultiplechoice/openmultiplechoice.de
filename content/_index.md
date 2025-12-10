@@ -4,143 +4,88 @@ date: 2023-01-20T21:02:29+01:00
 layout: "indexpage"
 ---
 
-<img src="omc-white-bg.png" class="rounded mx-auto d-block" width=50 alt="OMC logo">
+<img src="omc-white-bg.png" class="rounded mx-auto d-block mb-3" width=50 alt="OMC logo">
 
-<p class="text-center text-muted"><span class="badge text-dark" style="background-color: #fff3cd !important;">alpha</span></p>
+**OpenMultipleChoice** ist eine Open Source Webanwendung für Multiple Choice
+Fragen (MCQ) und Lernkarten.
 
-**OpenMultipleChoice** ist eine Open Source Webanwendung zum Lernen von Multiple
-Choice Fragen (MCQ) und Lernkarten.
-
-<div class="row mb-3">
+<div class="row mb-2">
     <div class="col-md">
         <img src="omc-screenshot.png" class="rounded mx-auto d-block img-fluid" alt="OMC Screenshot">
     </div>
 </div>
 
-<div class="row mb-3">
-    <div class="col-md">
-        <h4>Features</h4>
-        <ul>
-            <li>Multiple Choice Fragen und Lernkarten</li>
-            <li>Eigene Decks zusammenstellen und teilen</li>
-            <li>Kommentarfunktion</li>
-            <li>Mobile Friendly Layout</li>
-            <li>Open Source</li>
-        </ul>
+<div class="alert alert-light mb-3">
+    <h4 class="alert-heading mb-3">Features</h4>
+    <ul>
+        <li>Multiple Choice Fragen und Lernkarten</li>
+        <li>Eigene Decks zusammenstellen und teilen</li>
+        <li>Kommentarfunktion</li>
+        <li>Import & Export (optional)</li>
+    </ul>
+</div>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h4 class="card-title">Support</h4>
+        <p class="card-text">
+            Community Support findet ihr auf <a href="https://github.com/openmultiplechoice/openmultiplechoice/discussions/categories/q-a">GitHub Discussions</a> (Englisch).
+        </p>
     </div>
 </div>
 
-<div class="row mb-3">
-    <div class="col-md">
-        <h4>Managed Hosting & Support</h4>
+<div class="card mb-3">
+    <div class="card-body">
+        <h4 class="card-title">Managed Hosting</h4>
+        <p class="card-text">
+            Bei Interesse freuen wir uns über eine unverbindliche Anfrage via E-Mail!
+        </p>
     </div>
 </div>
 
-<div class="row mb-3">
-    <div class="col-md">
-        <div class="card text-bg-light">
-            <div class="card-body">
-                <h5 class="card-title">Managed Hosting</h5>
-                <p class="card-text">
-Wir denken über ein Managed Hosting Angebot nach, bei Interesse freuen wir uns
-über Anfragen!
-                </p>
+<div class="card mb-3">
+    <div class="card-body">
+        <h4 class="card-title">Spenden</h4>
+        <p class="card-text">
+            Spenden unterstützen uns bei der Weiterentwicklung und halten das Projekt am Leben. Möglichkeiten zur Spende sind:
+            <ul>
+                <li><a href="https://ko-fi.com/openmultiplechoice">ko-fi.com/openmultiplechoice</a> (u.a. PayPal)</li>
+                <li>Überweisung (auf Anfrage)</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<div class="card mb-3 border-0">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm d-flex gap-1">
+                <a href="https://github.com/openmultiplechoice/openmultiplechoice/blob/master/docs/installation.md" class="btn btn-primary text-decoration-none flex-fill mb-1">→ Weiter zur Installationsanleitung</a>
+            </div>
+            <div class="col-md d-flex gap-1">
+                <a href="https://github.com/openmultiplechoice/openmultiplechoice" class="btn btn-secondary text-decoration-none flex-fill mb-1">→ Weiter zum GitHub Repository</a>
             </div>
         </div>
     </div>
 </div>
 
-<div class="row mb-3">
-    <div class="col-md">
-        <div class="card text-bg-light">
-            <div class="card-body">
-                <h5 class="card-title">Support</h5>
-                <p class="card-text">
-Community Support findet ihr auf <a href="https://github.com/openmultiplechoice/openmultiplechoice/discussions/categories/q-a">GitHub Discussions</a> (Englisch).
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
+<h5>Frequently Asked Questions</h5>
 
 <div class="row mb-3">
     <div class="col-md">
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Open Source</h5>
-                <p class="card-text">
-OpenMultipleChoice (<a href="https://github.com/openmultiplechoice/openmultiplechoice">Source
-Code</a>) ist als Open Source Software für jede und jeden frei nutzbar
-- unter den Bedingungen der GNU Affero General Public License in Version 3.
-(<a href="https://www.gnu.org/licenses/agpl-3.0.en.html">AGPL v3</a>)
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row mb-3">
-    <div class="col-md">
-        <h4>Spenden</h4>
-        <p>Spenden unterstützen uns bei der Weiterentwicklung und halten das Projekt am Leben.</p>
-        <p>Möglichkeiten zur Spende sind:</p>
-        <ul>
-            <li><a href="https://ko-fi.com/openmultiplechoice">ko-fi.com/openmultiplechoice</a> (u.a. PayPal)</li>
-            <li>Überweisung (auf Anfrage)</li>
-        </ul>
-    </div>
-</div>
-
-<div class="row mb-3">
-    <div class="col-md">
-        <h4>Frequently Asked Questions</h4>
-    </div>
-</div>
-
-<div class="row mb-3">
-    <div class="col-md-4">
-        <p class="fw-bold">Ist OpenMultipleChoice schon produktiv nutzbar?</p>
-    </div>
-    <div class="col-md-8">
         <p>
-OpenMultipleChoice befindet sich aktuell in aktiver Entwicklung und ist als
-<i>alpha</i> Version installier- und nutzbar!
+            <strong>Was kostet OpenMultipleChoice?</strong><br>
+            OpenMultipleChoice kann als Open Source Software kostenlos installiert und genutzt werden.
+            Die Entwicklung des Projekts wird nach Möglichkeit über Spenden finanziert.
         </p>
     </div>
 </div>
 
 <div class="row mb-3">
-    <div class="col-md-4">
-        <p class="fw-bold">Was kostet OpenMultipleChoice?</p>
-    </div>
-    <div class="col-md-8">
+    <div class="col-md">
         <p>
-OpenMultipleChoice kann als Open Source Software kostenlos installiert und genutzt werden
-(unter den Bedingungen der <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">AGPL v3</a>).
-Die Entwicklung des Projekts wird über Spenden finanziert.
-        </p>
-    </div>
-</div>
-
-<div class="row mb-3">
-    <div class="col-md-4">
-        <p class="fw-bold">Wer steht hinter OpenMultipleChoice?</p>
-    </div>
-    <div class="col-md-8">
-        <p>
-Wir sind Medizinstudenten aus Mannheim.
-        </p>
-    </div>
-</div>
-
-<div class="row mb-3">
-    <div class="col-md-4">
-        <p class="fw-bold">Kann ich eine Rechnung haben?</p>
-    </div>
-    <div class="col-md-8">
-        <p>
-Sollten Spenden für Euch aus Gründen der Abbrechnung nicht möglich sein,
-kontaktiert uns gerne und wir suchen eine Lösung.
+            <strong>Wer steht hinter OpenMultipleChoice?</strong><br>
+            Wir sind (Ex-)Medizinstudenten aus Mannheim.
         </p>
     </div>
 </div>

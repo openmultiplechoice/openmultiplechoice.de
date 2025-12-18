@@ -21,8 +21,21 @@ Fragen (MCQ) und Lernkarten.
         <li>Multiple Choice Fragen und Lernkarten</li>
         <li>Eigene Decks zusammenstellen und teilen</li>
         <li>Kommentarfunktion</li>
-        <li>Import & Export (optional)</li>
+        <li>Import & Export von Decks (optional)</li>
     </ul>
+</div>
+
+<div class="card mb-3 border-0">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm d-flex gap-1">
+                <a href="https://github.com/openmultiplechoice/openmultiplechoice/blob/master/docs/installation.md" class="btn btn-primary text-decoration-none flex-fill mb-1">→ Weiter zur Installationsanleitung</a>
+            </div>
+            <div class="col-md d-flex gap-1">
+                <a href="https://github.com/openmultiplechoice/openmultiplechoice" class="btn btn-secondary text-decoration-none flex-fill mb-1">→ Weiter zum GitHub Repository</a>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="card mb-3">
@@ -53,19 +66,6 @@ Fragen (MCQ) und Lernkarten.
                 <li>Überweisung (auf Anfrage)</li>
             </ul>
         </p>
-    </div>
-</div>
-
-<div class="card mb-3 border-0">
-    <div class="card-body">
-        <div class="row">
-            <div class="col-sm d-flex gap-1">
-                <a href="https://github.com/openmultiplechoice/openmultiplechoice/blob/master/docs/installation.md" class="btn btn-primary text-decoration-none flex-fill mb-1">→ Weiter zur Installationsanleitung</a>
-            </div>
-            <div class="col-md d-flex gap-1">
-                <a href="https://github.com/openmultiplechoice/openmultiplechoice" class="btn btn-secondary text-decoration-none flex-fill mb-1">→ Weiter zum GitHub Repository</a>
-            </div>
-        </div>
     </div>
 </div>
 
